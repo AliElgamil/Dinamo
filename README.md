@@ -14,14 +14,14 @@
 
 ### Technologies Used:
 
-1- React.js
-2- Typescript
-3- Ant Design
-4- React router
-5- Formik
-6- Axios
-7- React-toastify
-8- Tailwind css
+1. React.js
+2. Typescript
+3. Ant Design
+4. React router
+5. Formik
+6. Axios
+7. React-toastify
+8. Tailwind css
 
 ### Time spent:
 
